@@ -1,0 +1,11 @@
+.task{
+    padding: 10px 10px;
+    background-color: rgba(242, 240, 240, 0.899);
+    border-radius: 5px;
+    cursor: pointer;
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
